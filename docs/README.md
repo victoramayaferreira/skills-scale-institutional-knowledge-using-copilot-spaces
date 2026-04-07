@@ -2,8 +2,6 @@
 
 > Centralized entry point for all OctoAcme project management process documents.
 
-Closes #2
-
 ---
 
 ## Overview
